@@ -1,0 +1,54 @@
+/* ----------------------
+    Main Template
+---------------------- */
+
+.container-fluid {
+    background-image: linear-gradient(to right, #009bbd, #007ca7, #005597, #1a296b, #18194f);
+    color: white;
+    padding: 3em;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container1 {
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header .text {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#logo {
+    margin-left: 5em;
+}
+
+.nav-item {
+    padding-left: 3em;
+    padding-right: 3em;
+    font-family: 'Montserrat', sans-serif;
+}
+
+nav {
+    background-color: #434341;
+}
+
+#footer {
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    background-image: linear-gradient(to right, #1a296b, #18194f);
+}
+
+/* ----------------------
+    History.html
+---------------------- */
+
+h3 {
+    color: #1a296b;
+}
+
+h4 {
+
+}
